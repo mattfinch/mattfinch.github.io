@@ -8,3 +8,8 @@ body {
 h1 {
     font-weight: 400;
 }
+
+.error {
+    background: #A30505;
+    color: #FDF9BA;
+}
